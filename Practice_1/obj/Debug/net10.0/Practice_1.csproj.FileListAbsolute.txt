@@ -1,0 +1,14 @@
+C:\Users\V110\Documents\Pr1\Practice_1\bin\Debug\net10.0\Practice_1.exe
+C:\Users\V110\Documents\Pr1\Practice_1\bin\Debug\net10.0\Practice_1.deps.json
+C:\Users\V110\Documents\Pr1\Practice_1\bin\Debug\net10.0\Practice_1.runtimeconfig.json
+C:\Users\V110\Documents\Pr1\Practice_1\bin\Debug\net10.0\Practice_1.dll
+C:\Users\V110\Documents\Pr1\Practice_1\bin\Debug\net10.0\Practice_1.pdb
+C:\Users\V110\Documents\Pr1\Practice_1\obj\Debug\net10.0\Practice_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V110\Documents\Pr1\Practice_1\obj\Debug\net10.0\Practice_1.AssemblyInfoInputs.cache
+C:\Users\V110\Documents\Pr1\Practice_1\obj\Debug\net10.0\Practice_1.AssemblyInfo.cs
+C:\Users\V110\Documents\Pr1\Practice_1\obj\Debug\net10.0\Practice_1.csproj.CoreCompileInputs.cache
+C:\Users\V110\Documents\Pr1\Practice_1\obj\Debug\net10.0\Practice_1.dll
+C:\Users\V110\Documents\Pr1\Practice_1\obj\Debug\net10.0\refint\Practice_1.dll
+C:\Users\V110\Documents\Pr1\Practice_1\obj\Debug\net10.0\Practice_1.pdb
+C:\Users\V110\Documents\Pr1\Practice_1\obj\Debug\net10.0\Practice_1.genruntimeconfig.cache
+C:\Users\V110\Documents\Pr1\Practice_1\obj\Debug\net10.0\ref\Practice_1.dll
